@@ -142,7 +142,7 @@ The dashboard provides valuable information on team performance, venue influence
 ## Dashboard Preview
 
 ### IPL Overview Summary
-<img width="1158" height="655" alt="IPL Overview Summary" src="https://github.com/user-attachments/assets/7b41ccaa-2608-4531-88bc-aebf473efa38" />
+<img width="1161" height="656" alt="IPL Overview Summary" src="https://github.com/user-attachments/assets/890a8675-0c80-45ab-97e5-a5e31d74feb7" />
 
 ### Season Analysis
 <img width="1157" height="656" alt="Season Analysis" src="https://github.com/user-attachments/assets/009d74a9-e730-4288-ad45-db3e9373ca98" />
