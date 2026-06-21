@@ -82,12 +82,19 @@ Highlights the most successful and consistent IPL franchises based on historical
 ## Key Features
 
 ✔ Interactive Slicers
+
 ✔ Dynamic KPI Cards
+
 ✔ Multi-page Navigation
+
 ✔ Team-wise Filtering
+
 ✔ Venue-wise Analysis
+
 ✔ Season-wise Analysis
+
 ✔ Business-Oriented Insights
+
 ✔ User-Friendly Dashboard Design
 
 ## Business Insights Generated
