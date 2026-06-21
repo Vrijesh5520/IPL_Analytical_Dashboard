@@ -118,7 +118,6 @@ Highlights the most successful and consistent IPL franchises based on historical
 - Business Intelligence
 - Dashboard Development
 - Data Visualization
-- Power BI Reporting
 - DAX Calculations
 - Power Query
 - KPI Development
@@ -135,8 +134,17 @@ The dashboard provides valuable information on team performance, venue influence
 
 ## Dashboard Preview
 
+### IPL Overview Summary
+<img width="1326" height="743" alt="IPL Overview Summary" src="https://github.com/user-attachments/assets/52f4aeb5-f7ce-45fd-9a36-b4505e7f8cb4" />
 
+### Season Analysis
+<img width="1157" height="656" alt="Season Analysis" src="https://github.com/user-attachments/assets/009d74a9-e730-4288-ad45-db3e9373ca98" />
 
+### Venue Analysis
+<img width="1165" height="656" alt="Venue Analysis" src="https://github.com/user-attachments/assets/eea0a45d-02e2-443a-8153-98d9b0e27072" />
+
+### Franchise Analysis
+<img width="1162" height="653" alt="Franchise Analysis" src="https://github.com/user-attachments/assets/c12023a0-a5c7-46b2-96a2-0ca65ed5f412" />
 
 ## Author
 
