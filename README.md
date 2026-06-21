@@ -112,7 +112,7 @@ Highlights the most successful and consistent IPL franchises based on historical
 - Strong franchises maintain performance consistency over multiple seasons.
 - Comparative analysis highlights strengths and weaknesses among teams.
 
-## 📊 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Analysis
 - Business Intelligence
@@ -135,10 +135,13 @@ The dashboard provides valuable information on team performance, venue influence
 
 ## Dashboard Preview
 
+
+
+
 ## Author
 
 **Vrijesh Balam**
 
-Aspiring Data Analyst | Power BI Developer | SQL Analyst | Data Science Enthusiast
+Aspiring Data Analyst 
 ---
 ⭐ If you found this project useful, consider giving it a star!
