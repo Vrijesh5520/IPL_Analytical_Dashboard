@@ -155,8 +155,7 @@ The dashboard provides valuable information on team performance, venue influence
 
 ## Author
 
-**Vrijesh Balam**
-
-*Aspiring Data Analyst 
+**Vrijesh Balam
+**Aspiring Data Analyst 
 ---
 ⭐ If you found this project useful, consider giving it a star!
